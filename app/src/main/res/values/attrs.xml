@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HomeItemView">
+        <attr name="title" format="string" />
+        <attr name="text_color" format="color" />
+        <attr name="text_size" format="dimension" />
+        <attr name="icon" format="reference" />
+        <attr name="tint" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="WatermarkLinearLayout">
+        <attr name="wll_text" format="string" />
+        <attr name="wll_text_color" format="color" />
+        <attr name="wll_text_size" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleTextHeadView">
+        <attr name="style" format="enum">
+            <enum name="STROKE" value="0" />
+            <enum name="FILL" value="1" />
+        </attr>
+
+        <attr name="stroke_width" format="dimension" />
+        <attr name="color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="OvalShadowView">
+        <attr name="shadow_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="ItemAboutAuthorView">
+        <attr name="leadingIcon" format="reference|color" />
+        <attr name="av_title" format="string" />
+        <attr name="av_name" format="string" />
+        <attr name="av_radius" format="dimension" />
+        <attr name="av_back_color" format="color" />
+    </declare-styleable>
+</resources>

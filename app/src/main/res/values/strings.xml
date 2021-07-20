@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Wandroid</string>
+    <string name="home_main">Home</string>
+    <string name="home_project">Project</string>
+    <string name="home_system">System</string>
+    <string name="home_navigation">Navigation</string>
+    <string name="home_mine">Mine</string>
+    <string name="home_newest_article">NewestArticle</string>
+    <string name="home_newest_project">NewestProject</string>
+    <string name="home_newest_share">NewestShare</string>
+    <string name="home_public_account">PublicAccount</string>
+    <string name="collection">Collection</string>
+    <string name="stick">Stick</string>
+    <string name="new_">New</string>
+    <string name="project_image">ProjectImage</string>
+    <string name="back">Back</string>
+    <string name="more">More</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="question_answer">Q&amp;A</string>
+    <string name="wan">WAN</string>
+    <string name="an">AN</string>
+    <string name="zhuo">ZHUO</string>
+    <string name="no_valid_data">No Valid Data</string>
+    <string name="click_left_login">Click the icon to login on the left</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="account">Account</string>
+    <string name="password">Password</string>
+    <string name="wan_an_zuo">WanAnZhuo</string>
+    <string name="have_no_account">No Account ?</string>
+    <string name="repassword">Password again</string>
+    <string name="have_account">Have account ?</string>
+    <string name="lose_username_password">username or password is null</string>
+    <string name="login_register">Login / Register</string>
+    <string name="ID" translatable="false">ID</string>
+    <string name="my_points">My Points</string>
+    <string name="points_level">Level:%1$d</string>
+    <string name="points_rank">Rank:%1$s</string>
+    <string name="points_rank_title">Points Rank</string>
+    <string name="my_collections">My Collections</string>
+    <string name="anonymity">Anonymity</string>
+    <string name="my_shared">My Share</string>
+    <string name="add_share">Add Share</string>
+    <string name="add_share_tip">1. As long as it is any good article can be Shared ha, it does not have to be original! Posts will enter the square TAB; \n2. CSDN, Nuggets, Books and other official blog sites will be directly approved, no audit is required; \n3. Other personal sites will enter the audit stage, do not post any invalid links, please delete the tested ones as soon as possible, otherwise it may affect your account; \n4. Currently in the testing stage, if you find 500 errors, you can submit the log to me, so that we can make the website better together. \n5. Since I am the only one to develop and maintain this site, I will try my best to ensure the review within 24 hours. Of course, some days may be too tired, so it will be delayed.</string>
+    <string name="share_user">Share User</string>
+    <string name="warm_remind">Warm Remind</string>
+    <string name="title">Title</string>
+    <string name="link">Link</string>
+    <string name="fill_share_title">Fill share article`s title</string>
+    <string name="fill_share_link">Fill share article`s link</string>
+    <string name="share_success">Share Success</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="my_todo">My Todo</string>
+    <string name="want_share">Want Share</string>
+    <string name="browsing_history">Browsing History</string>
+    <string name="about_author">About Author</string>
+    <string name="system_settings">System Settings</string>
+    <string name="logout">Logout</string>
+    <string name="logging">Logging</string>
+    <string name="github" translatable="false">Github</string>
+    <string name="csdn" translatable="false">CSDN</string>
+    <string name="codercyl" translatable="false">CoderCyl</string>
+    <string name="smartcyl" translatable="false">SmartCyl</string>
+    <string name="link_copy_success">Link Copy Success</string>
+    <string name="already_add_collection">Already Add Collection</string>
+    <string name="already_cancel_collection">Already Cancel Collection</string>
+    <string name="add_collection">Add Collection</string>
+    <string name="cancel_collection">Cancel Collection</string>
+    <string name="empty_text">No Data</string>
+    <string name="no_collections">No Collections</string>
+    <string name="deleting">Deleting</string>
+    <string name="no_share">No Share,Tab top right icon to share</string>
+    <string name="to_do">Do</string>
+    <string name="done">Done</string>
+    <string name="todo_date">TODO Date:%1$s</string>
+    <string name="todo_date2">TODO Date</string>
+    <string name="completion_date">Completion Date:%1$s</string>
+    <string name="overdue">Overdue</string>
+    <string name="add_todo">Add TODO</string>
+    <string name="update_todo">Update TODO</string>
+    <string name="detail">Detail</string>
+    <string name="click_to_select_todo_date">Click To Select Date</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="is_delete_the_todo">Delete the TODO?</string>
+    <string name="is_delete_the_share">Delete the Share?</string>
+    <string name="input_username">Input User Name</string>
+    <string name="input_password">Input Password</string>
+    <string name="password_again">Password again</string>
+    <string name="search">Search</string>
+    <string name="open_source">Open Source</string>
+    <string name="thanks_open">Thanks All The Follow Open Source Authors</string>
+</resources>
